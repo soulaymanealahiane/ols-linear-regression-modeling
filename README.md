@@ -47,7 +47,3 @@ $$
 * **Base Determinant:** School/Major acts as a base determinant of initial investment intent, regardless of whether the investment is Shariah-compliant or conventional.
 * **Shariah-Specific Predictors:** **Finance education** and **ethical consideration** significantly increase the predicted investment amount specifically for Shariah-compliant products.
 * **General Positive Predictors:** Parental income and student age show positive predictive behavior for investment amounts across both categories (Shariah and Conventional).
-
-## 📜 License
-
-This project is open-source and available under the **MIT License**.
