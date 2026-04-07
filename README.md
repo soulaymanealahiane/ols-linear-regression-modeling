@@ -16,8 +16,8 @@ The findings offer statistical evidence for segmented product structuring in the
 ## 📂 Repository Contents
 
 * **`[Double_Linear_Regression_Report].pdf`**: The full research report detailing the literature review, statistical methodology, and conclusion.
-* **`[Model_Shariah_Data].csv`**: Dataset containing variables used for the Shariah-compliant regression model.
-* **`[Model_Conventional_Data].csv`**: Dataset containing variables used for the conventional investment regression model.
+* **`[Model_Shariah_Data].csv`**:Survey-based collected Dataset containing variables used for the Shariah-compliant regression model.
+* **`[Model_Conventional_Data].csv`**:Surveu-based collected Dataset containing variables used for the conventional investment regression model.
 
 ## ⚙️ Methodology & Model Specification
 
